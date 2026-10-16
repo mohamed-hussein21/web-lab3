@@ -1,0 +1,59 @@
+.cart {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: Black;
+  text-align: center;
+}
+
+.buttons {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.showQuantityBtn {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.addToCartBtn {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.addTwoBtn {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.addThreeBtn {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.resetCartBtn {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
